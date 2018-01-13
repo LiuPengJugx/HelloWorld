@@ -2,7 +2,11 @@ package com.example.test.helloworld;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+/*
+* feature-1
+* display HelloWord
+* @param view
+* */
 public class Main extends AppCompatActivity {
 
     @Override
