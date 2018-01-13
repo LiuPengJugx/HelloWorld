@@ -3,7 +3,7 @@ package com.example.test.helloworld;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 /*
-* feature-1
+* feature-1 new
 * display HelloWord
 * @param view
 * */
